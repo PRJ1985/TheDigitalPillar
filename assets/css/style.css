@@ -9,6 +9,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+img {
+  height: 300px;
+}
 body {
   font-family: "Open Sans", sans-serif;
   color: #fff;
@@ -95,7 +98,7 @@ h6 {
 #header {
   position: relative;
   width: 100%;
-  padding: 100px 0;
+  padding: 50px 0;
   /* countdown */
 }
 
